@@ -1,6 +1,6 @@
 <!-- Banner / Header -->
 <p align="center">
-  <img src="https://i.imgur.com/dJ0yQ7B.png" alt="AI & Data Science Banner" width="100%">
+  <img src="https://drive.google.com/uc?export=view&id=1IYpZaugNfQWgEyUYwEuJTG61FaZ5SJgb" alt="AI & Data Science Banner" width="100%">
 </p>
 
 <h1 align="center">Hi, I'm <strong>Lokesh</strong> 👋</h1>
