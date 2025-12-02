@@ -1,4 +1,3 @@
-```md
 <!-- Banner / Header -->
 <p align="center">
   <img src="https://i.imgur.com/dJ0yQ7B.png" alt="AI & Data Science Banner" width="100%">
@@ -119,4 +118,3 @@ AI + creativity + productivity.
 ---
 
 ⭐ **If you like my work, feel free to star my repositories!**
-```
