@@ -1,16 +1,117 @@
-## Hi there 👋
+<!-- Banner / Header -->
+<p align="center">
+  <img src="https://i.imgur.com/dJ0yQ7B.png" alt="AI & Data Science Banner" width="100%">
+</p>
 
-<!--
-**Lokesh-Sohanda8/Lokesh-Sohanda8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi, I'm <strong>Lokesh</strong> 👋</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <em>Aspiring Data Scientist • ML & AI Learner • Web Dev Enthusiast • Product Builder</em>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+I’m an aspiring **Data Scientist** passionate about **Machine Learning, Deep Learning, AI Tools, Web Development**, and building meaningful digital products.  
+I love converting raw ideas into real applications — whether it's an ML model, dashboard, or full web app.
+
+💡 Currently working on my new AI-powered product: **IdeaVault**  
+🎶 Music • 🏍 Solo Rides • 🏔 Mountains • 🌌 Deep Thinking  
+📍 India
+
+---
+
+# 🧠 Tech Stack & Tools
+
+## 🔹 **Languages**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
+
+---
+
+## 🔹 **Data Science & ML**
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-4B8BBE?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+
+---
+
+## 🔹 **Deep Learning**
+<p>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+</p>
+
+---
+
+## 🔹 **Tools & Platforms**
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black"/>
+</p>
+
+---
+
+# 📊 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=musical-lokesh&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=musical-lokesh&layout=compact&theme=tokyonight" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=musical-lokesh&theme=tokyonight"/>
+</p>
+
+---
+
+# 🔥 Featured Projects
+
+### 📈 **Apple Stock Price Forecasting**
+Machine learning + time-series forecasting + Streamlit dashboard.
+
+### 🧠 **AI-Powered Resume Classifier**
+ML pipeline + text processing + classification.
+
+### 📊 **Power BI Dashboards**
+Finance, business analytics, and exploratory dashboards.
+
+### 💡 **IdeaVault (Upcoming Product)**
+AI + creativity + productivity.
+
+---
+
+# 📫 Connect With Me
+
+<p>
+  <a href="https://github.com/musical-lokesh">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="#">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+⭐ **If you like my work, feel free to star my repositories!**
