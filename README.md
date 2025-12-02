@@ -1,6 +1,18 @@
 <!-- Banner / Header -->
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1IYpZaugNfQWgEyUYwEuJTG61FaZ5SJgb" alt="AI & Data Science Banner" width="100%">
+  <img 
+    src="https://drive.google.com/uc?export=view&id=1IYpZaugNfQWgEyUYwEuJTG61FaZ5SJgb"
+    alt="AI & Data Science Banner"
+    width="100%"
+    style="
+      border-radius: 22px;
+      box-shadow: 0 8px 25px rgba(0, 0, 0, 0.25);
+      backdrop-filter: blur(10px);
+      -webkit-backdrop-filter: blur(10px);
+      background: rgba(255, 255, 255, 0.12);
+      padding: 10px;
+    "
+  />
 </p>
 
 <h1 align="center">Hi, I'm <strong>Lokesh</strong> 👋</h1>
